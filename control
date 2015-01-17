@@ -1,0 +1,9 @@
+Package: com.jakej.nowakeonringer
+Name: NoWakeOnRinger
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disables screen waking when the physical mute/ringer switch is switched.
+Maintainer: Jake Januzelli
+Author: Jake Januzelli
+Section: Tweaks
